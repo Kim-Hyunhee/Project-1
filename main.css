@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+}
+
+#txt_intro {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 50px;
+}
+
+.newJeans {
+  text-align: center;
+}
+
+.newJeans_title {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.card_button {
+  font-size: 18px;
+  width: 120px;
+  height: 35px;
+  color: aliceblue;
+  background-color: black;
+  border-radius: 10px;
+  border: none;
+}
+
+.newJeans_img {
+  width: auto;
+  height: 500px;
+}
