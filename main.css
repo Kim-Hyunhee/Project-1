@@ -8,11 +8,11 @@ h1 {
   margin-bottom: 50px;
 }
 
-.newJeans {
+.olympics {
   text-align: center;
 }
 
-.newJeans_title {
+.olympics_title {
   font-size: 30px;
   font-weight: bold;
 }
@@ -27,7 +27,7 @@ h1 {
   border: none;
 }
 
-.newJeans_img {
+.olympics_img {
   width: auto;
   height: 500px;
 }
